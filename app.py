@@ -20,8 +20,8 @@ import plotly.graph_objects as go
 airports = airportsdata.load('IATA')
 
 # ==================== CONFIGURATION ====================
-GITHUB_GEO_MASTER_URL = "https://raw.githubusercontent.com/yourusername/yourrepo/main/data/geo_master.xlsx"
-GITHUB_EPA_EF_URL = "https://raw.githubusercontent.com/yourusername/yourrepo/main/data/PAHO_EF_usaepa_exiobase.xlsx"
+GITHUB_GEO_MASTER_URL = "https://raw.githubusercontent.com/cxluo001/ghgcalculator/main/geo_master.xlsx"
+GITHUB_EPA_EF_URL = "https://raw.githubusercontent.com/cxluo001/ghgcalculator/main/PAHO%20EF_usaepa_exiobase.xlsx"
 
 # ==================== AWB Functions ====================
 def clean_gross_weight(value):
