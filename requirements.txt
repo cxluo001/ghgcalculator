@@ -1,0 +1,11 @@
+streamlit
+pandas
+airportsdata
+geopy
+folium
+streamlit-folium
+openpyxl
+plotly
+fuzzywuzzy
+python-levenshtein
+requests
